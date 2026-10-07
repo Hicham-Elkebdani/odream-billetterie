@@ -1,0 +1,3 @@
+# Copier ce fichier vers .dev.vars uniquement sur votre PC. Ne jamais le partager.
+APPS_SCRIPT_WEB_APP_URL="https://script.google.com/macros/s/VOTRE_DEPLOIEMENT/exec"
+APPS_SCRIPT_SHARED_SECRET="COLLER_ICI_UN_SECRET_ALEATOIRE_DE_64_CARACTERES"
